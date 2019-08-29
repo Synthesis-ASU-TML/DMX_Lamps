@@ -2,7 +2,7 @@
 	"name" : "Lamps - Floor Border",
 	"version" : 1,
 	"creationdate" : 3649840813,
-	"modificationdate" : 3649842293,
+	"modificationdate" : 3649923314,
 	"viewrect" : [ 25.0, 70.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -21,6 +21,14 @@
 		"code" : 		{
 			"create_mask.genjit" : 			{
 				"kind" : "genjit",
+				"local" : 1
+			}
+
+		}
+,
+		"data" : 		{
+			"floor-lamps.json" : 			{
+				"kind" : "json",
 				"local" : 1
 			}
 
